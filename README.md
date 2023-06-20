@@ -1,4 +1,4 @@
-#Copyring : https://github.com/m1raibot/miraiv2
+# Copyring : https://github.com/m1raibot/miraiv2
 
 # Readme file : 
 https://github.com/AliOgOi/botchatmessenger/blob/main/README_en.md
